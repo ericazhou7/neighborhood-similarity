@@ -1,148 +1,148 @@
-Airbnb,Unique Identifier,NTA,Geographic Boundaries
-"Allerton,Pelham Gardens",1,"BX31,BX07",
-Arden Heights,2,SI48,
-Astoria,3,"QN71,QN70",
-Bath Beach,4,BK27,
-"Battery Park City,Financial District",5,MN25,
-Bay Terrace,6,QN47,
-Bayside,7,QN46,
-"Bayswater,Far Rockaway",8,QN15,
-Bedford-Stuyvesant,9,"BK75,BK35",
-Bellerose,10,QN43,
-Belmont,11,BX06,
-Bensonhurst,12,BK28,
-Borough Park,13,BK88,
-"Breezy Point,Neponsit,Belle Harbor",14,QN10,
-"Briarwood,Jamaica Hills",15,QN35,
-Brighton Beach,16,"BK23,BK19",
-"Brooklyn Heights,Cobble Hill",17,BK09,
-Brownsville,18,BK81,
-Bushwick,19,"BK78,BK77",
-Cambria Heights,20,QN33,
-Canarsie,21,BK50,
-"Castle Hill,Clason Point",22,BX09,
-"Castleton Corners,Westerleigh",23,SI07,
-"Charleston,Pleasant Plains,Tottenville",24,SI11,
-"Chelsea,Flatiron District",25,MN13,
-"""Chelsea, Staten Island"",Bloomfield,Bull's Head,Willowbrook,Emerson Hill",26,SI05,
-"Chinatown,Two Bridges",27,MN27,
-City Island,28,BX10,
-Claremont Village,29,BX01,
-Clinton Hill,30,BK69,
-Co-op City,31,BX13,
-College Point,32,QN23,
-"Concord,Arrochar,Fort Wadsworth",33,SI14,
-Concourse,34,BX63,
-Concourse Village,35,BX14,
-Corona,36,"QN25,QN26",
-Crown Heights,37,"BK63,BK61,BK79",
-Cypress Hills,38,BK83,
-Ditmars Steinway,39,QN72,
-"Dongan Hills,South Beach",40,SI36,
-"Douglaston,Little Neck",41,QN45,
-"DUMBO,Vinegar Hill,Downtown Brooklyn,Boerum Hill",42,BK38,
-Dyker Heights,43,BK30,
-East Elmhurst,44,QN27,
-East Flatbush,45,"BK95,BK91,BK96",
-East Harlem,46,"MN34,MN33",
-East Morrisania,47,BX75,
-East New York,48,"BK85,BK82,BK93",
-East Village,49,MN22,
-"Eastchester,Baychester,Edenwald",50,BX03,
-Elmhurst,51,"QN50,QN29",
-"Eltingville,Great Kills,""Bay Terrace, Staten Island""",52,SI54,
-Flatbush,53,BK42,
-Flatlands,54,BK58,
-Flushing,55,"QN22,QN52,QN51,QN62,QN38",
-Fordham,56,"BX05,BX40",
-Forest Hills,57,QN17,
-Fort Greene,58,BK68,
-"Fort Hamilton,Bay Ridge",59,BK31,
-Fresh Meadows,60,"QN48,QN41",
-Glen Oaks,61,QN44,
-Glendale,62,QN19,
-"Gowanus,Park Slope,South Slope",63,BK37,
-Gramercy,64,MN21,
-Gravesend,65,"BK26,BK29",
-Greenpoint,66,BK76,
-"Grymes Hill,Tompkinsville",67,SI08,
-Harlem,68,"MN04,MN06,MN03",
-Hell's Kitchen,69,MN15,
-"Highbridge,Mount Eden",70,BX26,
-Hollis,71,QN07,
-Hollis Hills,72,QN42,
-Howard Beach,73,QN57,
-"Howland Hook,Port Ivory,Mariners Harbor,Graniteville",74,SI12,
-Hunts Point,75,BX27,
-Jackson Heights,76,QN28,
-Jamaica,77,"QN01,QN61,QN76",
-"Jamaica Estates,Holliswood",78,QN06,
-Kensington,79,BK41,
-Kew Gardens,80,QN60,
-Kew Gardens Hills,81,QN37,
-"Kingsbridge,Spuyten Duyvil",82,"BX30,BX29,BX28",
-"Kips Bay,Murray Hill",83,MN20,
-Laurelton,84,QN66,
-Long Island City,85,QN68,
-Longwood,86,BX33,
-"Lower East Side,Alphabet City",87,MN28,
-"Manhattan Beach,Sheepshead Bay,Gerritsen Beach",88,"BK17,BK44,BK25",
-"Marble Hill,Inwood",89,MN01,
-Melrose,90,BX34,
-Middle Village,91,QN21,
-"Midtown,Theater District",92,"MN17,MN19",
-Midwood,93,"BK46,BK43",
-"Mill Basin,Bergen Beach",94,BK45,
-Morningside Heights,95,MN09,
-Morrisania,96,BX35,
-"Mott Haven,Port Morris",97,BX39,
-Mount Hope,98,BX41,
-Navy Yard,99,,
-"New Dorp,New Dorp Beach,Grant City,Midland Beach",100,SI45,
-"New Springville,Lighthouse Hill,Todt Hill",101,SI24,
-"North Riverdale,Fieldston,Riverdale",102,BX22,
-Norwood,103,BX43,
-Ozone Park,104,QN56,
-Parkchester,105,BX08,
-"Pelham Bay,Van Nest,Bronxdale,Morris Park",106,"BX37,BX49",
-Port Richmond,107,SI28,
-"Prince's Bay,Huguenot",108,SI01,
-Prospect Heights,109,BK64,
-Prospect-Lefferts Gardens,110,BK60,
-Queens Village,111,QN34,
-"Randall Manor,New Brighton,St. George",112,SI22,
-"Red Hook,Columbia St,Carroll Gardens",113,BK33,
-Rego Park,114,QN18,
-Richmond Hill,115,QN54,
-"Richmondtown,Oakwood",116,SI25,
-Ridgewood,117,QN20,
-"Rockaway Beach,Arverne,Edgemere",118,QN12,
-Rosedale,119,QN05,
-"Rossville,Woodrow",120,SI32,
-"Sea Gate,Coney Island",121,BK21,
-Soundview,122,BX55,
-South Ozone Park,123,QN55,
-Springfield Gardens,124,"QN02,QN03",
-St. Albans,125,QN08,
-"Stapleton,Clifton,Rosebank,Shore Acres",126,SI37,
-Stuyvesant Town,127,MN50,
-"Sunnyside,Maspeth",128,"QN31,QN30",
-Sunset Park,129,"BK32,BK34",
-"Throgs Neck,Schuylerville,Country Club",130,BX52,
-"Tremont,West Farms",131,BX17,
-"Tribeca,Civic Center,Soho,Little Italy,Nolita",132,MN24,
-Unionport,133,BX59,
-"University Heights,Morris Heights",134,BX36,
-"Upper East Side,Roosevelt Island",135,"MN31,MN32,MN40",
-Upper West Side,136,"MN12,MN14",
-"Wakefield,Woodlawn",137,BX62,
-Washington Heights,138,"MN36,MN35",
-"West Brighton,Silver Lake",139,SI35,
-"West Village,Greenwich Village,Noho",140,MN23,
-Westchester Square,141,BX46,
-Whitestone,142,QN49,
-"Williamsbridge,Olinville",143,BX44,
-Williamsburg,144,"BK73,BK72,BK90",
-Windsor Terrace,145,BK40,
-Woodhaven,146,QN53,
-Woodside,147,QN63,
+Airbnb,Unique Identifier,NTA,Longitude,Latitude
+"Allerton,Pelham Gardens",1,"BX31,BX07",-73.8539212,40.86587205
+Arden Heights,2,SI48,-74.18993846,40.55033881
+Astoria,3,"QN71,QN70",-73.92029859,40.76509248
+Bath Beach,4,BK27,-74.01061458,40.60397814
+"Battery Park City,Financial District",5,MN25,-74.0097259,40.70930426
+Bay Terrace,6,QN47,-73.78799354,40.78524536
+Bayside,7,QN46,-73.77167563,40.76123433
+"Bayswater,Far Rockaway",8,QN15,-73.75424548,40.6025931
+Bedford-Stuyvesant,9,"BK75,BK35",-73.94019797,40.69113849
+Bellerose,10,QN43,-73.72789617,40.73647167
+Belmont,11,BX06,-73.88603534,40.8577731
+Bensonhurst,12,BK28,-73.9942964,40.60962622
+Borough Park,13,BK88,-73.98956056,40.62861341
+"Breezy Point,Neponsit,Belle Harbor",14,QN10,-73.92314338,40.55542928
+"Briarwood,Jamaica Hills",15,QN35,-73.80713493,40.71077782
+Brighton Beach,16,"BK23,BK19",-73.96428019,40.58251197
+"Brooklyn Heights,Cobble Hill",17,BK09,-73.99538402,40.69589524
+Brownsville,18,BK81,-73.9124718,40.66379963
+Bushwick,19,"BK78,BK77",-73.91961656,40.69626729
+Cambria Heights,20,QN33,-73.73555019,40.69331683
+Canarsie,21,BK50,-73.89978223,40.63887768
+"Castle Hill,Clason Point",22,BX09,-73.85634383,40.81651781
+"Castleton Corners,Westerleigh",23,SI07,-74.12323249,40.61962221
+"Charleston,Pleasant Plains,Tottenville",24,SI11,-74.22953374,40.52732413
+"Chelsea,Flatiron District",25,MN13,-74.0032259,40.74855835
+"""Chelsea, Staten Island"",Bloomfield,Bull's Head,Willowbrook,Emerson Hill",26,SI05,-74.16650755,40.59546856
+"Chinatown,Two Bridges",27,MN27,-73.99551632,40.71598878
+City Island,28,BX10,-73.82070466,40.84146747
+Claremont Village,29,BX01,-73.89692938,40.84575412
+Clinton Hill,30,BK69,-73.96493347,40.68851444
+Co-op City,31,BX13,-73.83041955,40.87407236
+College Point,32,QN23,-73.84407923,40.78198361
+"Concord,Arrochar,Fort Wadsworth",33,SI14,-74.06778442,40.59905405
+Concourse,34,BX63,-73.92513398,40.82914584
+Concourse Village,35,BX14,-73.91536787,40.83060444
+Corona,36,"QN25,QN26",-73.86060305,40.74624819
+Crown Heights,37,"BK63,BK61,BK79",-73.93259668,40.67496426
+Cypress Hills,38,BK83,-73.87705071,40.68269009
+Ditmars Steinway,39,QN72,-73.90665483,40.77820617
+"Dongan Hills,South Beach",40,SI36,-74.08588545,40.58661753
+"Douglaston,Little Neck",41,QN45,-73.73139917,40.76235765
+"DUMBO,Vinegar Hill,Downtown Brooklyn,Boerum Hill",42,BK38,-73.98633971,40.69267396
+Dyker Heights,43,BK30,-74.01187622,40.62139272
+East Elmhurst,44,QN27,-73.86840539,40.76394772
+East Flatbush,45,"BK95,BK91,BK96",-73.92342246,40.64866778
+East Harlem,46,"MN34,MN33",-73.93763789,40.80124563
+East Morrisania,47,BX75,-73.88978025,40.83129264
+East New York,48,"BK85,BK82,BK93",-73.88077766,40.65860678
+East Village,49,MN22,-73.98519395,40.72793031
+"Eastchester,Baychester,Edenwald",50,BX03,-73.84555133,40.87735976
+Elmhurst,51,"QN50,QN29",-73.88475659,40.73848003
+"Eltingville,Great Kills,""Bay Terrace, Staten Island""",52,SI54,-74.15268636,40.54892878
+Flatbush,53,BK42,-73.96269439,40.64098269
+Flatlands,54,BK58,-73.93254325,40.62738904
+Flushing,55,"QN22,QN52,QN51,QN62,QN38",-73.82131123,40.74881289
+Fordham,56,"BX05,BX40",-73.8893929,40.86658257
+Forest Hills,57,QN17,-73.84800866,40.72309204
+Fort Greene,58,BK68,-73.97557705,40.69061725
+"Fort Hamilton,Bay Ridge",59,BK31,-74.0304481,40.62358339
+Fresh Meadows,60,"QN48,QN41",-73.78666631,40.74806494
+Glen Oaks,61,QN44,-73.7090728,40.74374239
+Glendale,62,QN19,-73.88201164,40.70266754
+"Gowanus,Park Slope,South Slope",63,BK37,-73.98464365,40.67199305
+Gramercy,64,MN21,-73.98332568,40.73734825
+Gravesend,65,"BK26,BK29",-73.98283566,40.59829816
+Greenpoint,66,BK76,-73.94844757,40.72881829
+"Grymes Hill,Tompkinsville",67,SI08,-74.09247405,40.62014121
+Harlem,68,"MN04,MN06,MN03",-73.9466951,40.82090131
+Hell's Kitchen,69,MN15,-73.99205909,40.76402882
+"Highbridge,Mount Eden",70,BX26,-73.92696123,40.83673391
+Hollis,71,QN07,-73.76157173,40.7110871
+Hollis Hills,72,QN42,-73.75537747,40.74343073
+Howard Beach,73,QN57,-73.84995825,40.65955979
+"Howland Hook,Port Ivory,Mariners Harbor,Graniteville",74,SI12,-74.16493415,40.62879358
+Hunts Point,75,BX27,-73.88499141,40.81390513
+Jackson Heights,76,QN28,-73.88740844,40.75906899
+Jamaica,77,"QN01,QN61,QN76",-73.79449781,40.69114589
+"Jamaica Estates,Holliswood",78,QN06,-73.7713781,40.72037363
+Kensington,79,BK41,-73.97433623,40.6393871
+Kew Gardens,80,QN60,-73.82980146,40.70872134
+Kew Gardens Hills,81,QN37,-73.82256111,40.72770661
+"Kingsbridge,Spuyten Duyvil",82,"BX30,BX29,BX28",-73.89819944,40.87393705
+"Kips Bay,Murray Hill",83,MN20,-73.97832471,40.74419658
+Laurelton,84,QN66,-73.74447254,40.6761707
+Long Island City,85,QN68,-73.94160928,40.76026791
+Longwood,86,BX33,-73.89819185,40.81919841
+"Lower East Side,Alphabet City",87,MN28,-73.97916169,40.71928713
+"Manhattan Beach,Sheepshead Bay,Gerritsen Beach",88,"BK17,BK44,BK25",-73.94979793,40.59530016
+"Marble Hill,Inwood",89,MN01,-73.92032253,40.8650573
+Melrose,90,BX34,-73.91358512,40.81825907
+Middle Village,91,QN21,-73.88073103,40.71852183
+"Midtown,Theater District",92,"MN17,MN19",-73.97614365,40.75547011
+Midwood,93,"BK46,BK43",-73.96149121,40.61908476
+"Mill Basin,Bergen Beach",94,BK45,-73.90676813,40.61777992
+Morningside Heights,95,MN09,-73.96295223,40.80798443
+Morrisania,96,BX35,-73.90444934,40.82798167
+"Mott Haven,Port Morris",97,BX39,-73.91705963,40.80744831
+Mount Hope,98,BX41,-73.90502187,40.84911469
+Navy Yard,99,,,
+"New Dorp,New Dorp Beach,Grant City,Midland Beach",100,SI45,-74.10389173,40.57244842
+"New Springville,Lighthouse Hill,Todt Hill",101,SI24,-74.13708773,40.58562978
+"North Riverdale,Fieldston,Riverdale",102,BX22,-73.90646344,40.89985153
+Norwood,103,BX43,-73.87775766,40.87685928
+Ozone Park,104,QN56,-73.84937181,40.67517869
+Parkchester,105,BX08,-73.87101155,40.83468762
+"Pelham Bay,Van Nest,Bronxdale,Morris Park",106,"BX37,BX49",-73.85245261,40.84945779
+Port Richmond,107,SI28,-74.14114822,40.6254545
+"Prince's Bay,Huguenot",108,SI01,-74.17395796,40.53201574
+Prospect Heights,109,BK64,-73.96826747,40.67718167
+Prospect-Lefferts Gardens,110,BK60,-73.94520172,40.65754451
+Queens Village,111,QN34,-73.74112811,40.71430676
+"Randall Manor,New Brighton,St. George",112,SI22,-74.12316404,40.63597771
+"Red Hook,Columbia St,Carroll Gardens",113,BK33,-74.00381049,40.67851631
+Rego Park,114,QN18,-73.86401357,40.72365252
+Richmond Hill,115,QN54,-73.82903084,40.69297308
+"Richmondtown,Oakwood",116,SI25,-74.1195918,40.5620606
+Ridgewood,117,QN20,-73.90198333,40.70453001
+"Rockaway Beach,Arverne,Edgemere",118,QN12,-73.77609176,40.59609399
+Rosedale,119,QN05,-73.73672074,40.65947874
+"Rossville,Woodrow",120,SI32,-74.20696942,40.5407424
+"Sea Gate,Coney Island",121,BK21,-73.99714881,40.57723537
+Soundview,122,BX55,-73.86990501,40.82829233
+South Ozone Park,123,QN55,-73.82051305,40.67707023
+Springfield Gardens,124,"QN02,QN03",-73.77962382,40.66648531
+St. Albans,125,QN08,-73.7625885,40.69221615
+"Stapleton,Clifton,Rosebank,Shore Acres",126,SI37,-74.08132832,40.62023209
+Stuyvesant Town,127,MN50,-73.97784273,40.73172749
+"Sunnyside,Maspeth",128,"QN31,QN30",-73.92913395,40.73402096
+Sunset Park,129,"BK32,BK34",-74.01001468,40.65097202
+"Throgs Neck,Schuylerville,Country Club",130,BX52,-73.82488696,40.82466576
+"Tremont,West Farms",131,BX17,-73.88664301,40.84601113
+"Tribeca,Civic Center,Soho,Little Italy,Nolita",132,MN24,-74.00465053,40.72019891
+Unionport,133,BX59,-73.84958094,40.83261248
+"University Heights,Morris Heights",134,BX36,-73.91496758,40.85350263
+"Upper East Side,Roosevelt Island",135,"MN31,MN32,MN40",-73.95547513,40.7730928
+Upper West Side,136,"MN12,MN14",-73.97737994,40.78538803
+"Wakefield,Woodlawn",137,BX62,-73.85640846,40.89908811
+Washington Heights,138,"MN36,MN35",-73.93748735,40.85016984
+"West Brighton,Silver Lake",139,SI35,-74.10317793,40.62846582
+"West Village,Greenwich Village,Noho",140,MN23,-74.0019717,40.73318332
+Westchester Square,141,BX46,-73.85794049,40.83739759
+Whitestone,142,QN49,-73.81540245,40.78832894
+"Williamsbridge,Olinville",143,BX44,-73.85827495,40.88321228
+Williamsburg,144,"BK73,BK72,BK90",-73.95222003,40.71309964
+Windsor Terrace,145,BK40,-73.97723935,40.65366447
+Woodhaven,146,QN53,-73.85664593,40.69013957
+Woodside,147,QN63,-73.9035242,40.75128935
